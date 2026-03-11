@@ -1,6 +1,7 @@
 # Hi! I am Mark
 
 - I'm currently learning Java and making Minecraft plugins/mods
-![typing](assets/header.gif)
-
+<p align="center">
+  <img src="assets/header.gif" alt="header" width="500">
+</p>
 
